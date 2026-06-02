@@ -6,9 +6,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.bloom",
+      "package_name": "com.wellnessz.nikita",
       "sha256_cert_fingerprints": [
-        "1E:D5:13:AA:AF:9C:1D:DF:43:3F:41:77:4B:DE:F7:58:29:AE:2D:C3:F7:93:58:A3:9C:43:4A:22:EA:FB:B2:E3"
+        "A3:6A:C0:24:91:B6:21:B0:E1:C6:1C:72:BC:76:57:3D:61:BA:6F:82:34:50:E5:26:DA:6C:F5:E5:D7:B3:5F:5D"
       ]
     }
   }
